@@ -32,7 +32,7 @@
 
 ## Introdução
 
-Este roteiro envolve implementação dos principais algoritmos de ordenação $O(n^2)$.
+Este roteiro envolve implementação e teoria dos principais algoritmos de ordenação $O(n^2)$.
 
 Você vai ver que o design do código do template envolve a interface SortingStrategy e que ambos, InsertionSort e SelectionSort implementam essa interface.
 
