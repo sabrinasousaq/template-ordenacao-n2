@@ -42,7 +42,7 @@ Você vai ver que o design do código do template envolve a interface SortingStr
 
 **SelectionSort.** Nem sempre os testes serão entregues. Você deve ser capaz de fazer seus próprios testes. Para o selection, além de implementar os dois métodos que foram pedidos, você deverá criar também uma classe de teste no diretório `src/main/java/`. Inspire-se nos testes que criei para o insertion.
 
-Ah...confira (sempre!) se você passa nos testes: `java -ea InsertionSortAsserts` . Execute de forma semelhante para os teste do selection sort que você criar.
+Ah...confira (sempre!) se você passa nos testes: `java -ea InsertionSortAsserts`. Execute de forma semelhante para os testes do selection sort que você criar.
 
 ### Teoria
 
